@@ -1,0 +1,19 @@
+{
+  "name": "projeto-base",
+  "version": "1.0.0",
+  "description": "Atividade: Projeto-Base",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "node.js",
+    "HTML"
+  ],
+  "author": "Thiago Büttner Conradi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
